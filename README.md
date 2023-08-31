@@ -30,4 +30,6 @@ You can play with the smart contracts deployed in Sepolia:
 
 Testing test\test.js
 
-# Contracts
+# Things
+
+Using hardhat console.log funcionality into SmartContracts and hardhat node
