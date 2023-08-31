@@ -32,4 +32,4 @@ Testing test\test.js
 
 # Things
 
-Using hardhat console.log funcionality into SmartContracts and hardhat node
+Using hardhat console.log functionality into SmartContracts and hardhat node
